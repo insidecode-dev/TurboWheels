@@ -1,0 +1,33 @@
+hər şey azərbaycan dilində olmalıdır
+
+valyuta : euro azn dollar
+create order :
+description
+quantity
+alış qiyməti və valyutası 
+dropdown : yeni ve kohne
+
+orders : lazim deyil
+
+alan kimi düşür stock'a 
+stock :
+yeni ve kohne filtri olsun
+tables : sıraama olsun (id olmasin). descrpiiotn . yeni ya kohne . quantity . bir tekerin qiymeti (aznle). umumi qiymet qiymeti (aznle). 
+mallarin umumi deyeri = > stockdakı malların ümumi deyeri
+profit => evvelki proqramki kimi
+cash in hand => evvelki proqram kimi
+
+sell düymesi :
+kohne proqramnan eyni olsun
+......... burda iki variant olmalıdı
+nağd nisyə
+if nisyə : adlar 
+nağd evvelki kimi olacaq
+expense :
+table : numeration description money
+burda cash 
+evvelki proqramdakı kimi
+
+...............elave
+nisye sehifesi
+filankesin butun nisyesi tamamlanana qeder bu cahs in hande qedir, tam odeyende xeyir artir
